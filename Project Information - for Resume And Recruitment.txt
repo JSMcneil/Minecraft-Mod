@@ -1,0 +1,16 @@
+This project, "Simply Horses," was written as a modification ("mod") of the Java-based game, Minecraft. My project endeavored to add horses, carts, and wagons to the game, and was also my first extra-curricular project. I started working on this mod while taking my first Principles of Programming course- and without a doubt Simply Horses was a major inspiration for my pursuing a career in computer science and software engineering.
+
+At just over 10,000 lines of code, Simply Horses was a huge endeavor that spanned over two years in its making. I learned material outside the scope of the programming courses I took alongside its development- knowledge and skills I was able to use in courses later in my degree even after I had halted development on the mod itself.
+
+Simply Horses was released in alpha throughout its development, and I was able to communicate with a large community of fans who helped bug report and offer suggestions to improve the game experience. The project grew in popularity; at its peak, Simply Horses was consistently downloaded over 20,000 times with each update.
+
+Simply Horses is a huge source of pride for me- not just in sentimentality but in what it shows I have to offer to this field.
+
+
+
+In this folder, you'll find two subdirectories- "common," which contains source files for the bulk of the program, and "client," which holds source files related primarily to graphics and display.
+
+Thank you for considering me for a position on your team!
+
+Jasmine M.
+
